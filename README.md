@@ -1,7 +1,6 @@
-# SWEN90006 Assignment 2 2020
+Copyright 2020 Shubham Parth, University of Melbourne
 
-Please see the assignment handout which contains all the essential
-information.
+This Repository is not to be copied or used anywhere without permission from the owner. The code should not be submitted as a project anywhere.
 
 Structure of this repository:
 
